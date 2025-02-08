@@ -13,11 +13,11 @@ A lista de compras é um projeto que foi desenvolvido durante um curso
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
+- `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
 
-`CSS`: Utilizado para estilização da interface do aplicativo.
+- `CSS`: Utilizado para estilização da interface do aplicativo.
 
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+- `JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
 
 ## 🚧 Licença
 
