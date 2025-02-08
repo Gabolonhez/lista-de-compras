@@ -8,16 +8,16 @@ A lista de compras é um projeto que foi desenvolvido durante um curso
 
 ## 🎯 Funcionalidades
 
-- [x] ``: Permite incluir, editar e excluir um item a ser comprado. <br>
-- [x] ``: Permite selecionar e mover um item para a aba de comprados
+- [x] Permite incluir, editar e excluir um item a ser comprado. <br>
+- [x] Permite selecionar e mover um item para a aba de comprados
 
 ## 💻 Tecnologias 
 
-- `HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
+- `HTML`
 
-- `CSS`: Utilizado para estilização da interface do aplicativo.
+- `CSS`
 
-- `JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+- `JavaScript`
 
 ## 🚧 Licença
 
