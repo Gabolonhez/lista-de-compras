@@ -12,11 +12,8 @@ A lista de compras é um projeto que foi desenvolvido durante um curso
 - [x] Permite selecionar e mover um item para a aba de comprados
 
 ## 💻 Tecnologias 
-
 - `HTML`
-
 - `CSS`
-
 - `JavaScript`
 
 ## 🚧 Licença
