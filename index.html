@@ -9,38 +9,35 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&family=Numans&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
 </head>
 
 <body>
 
     <main>
-        <img src="./img/bag.png" alt="sacola de compras">
+        <img src="./assets/img/bag.png" alt="sacola de compras">
         <form>
             <input class="input-item" id="input-item" type="text"
                 placeholder="Digite o item que deseja adicionar"></input>
             <button class="button-item" id="adicionar-item">Salvar item</button>
         </form>
-
         <div class="container-lista">
             <h2>Lista de compras</h2>
             <hr>
-
             <ul id="lista-de-compras">
                 <p id="mensagem-lista-vazia" style="display: block">Sua lista de compras está vazia!</p>
             </ul>
-
             <div id="container-lista-comprados">
                 <h2>Comprados</h2>
-                <hr/>
+                <hr class="hr-2"/>
                 <p id="mensagem-comprados-vazia" style="display: block">Sua lista de comprados está vazia!</p>
                 <ul id="lista-comprados">
-
                 </ul>
             </div>
         </div>
     </main>
-    <script src="scripts.js" type="module"></script>
+    <script src="./assets/js/scripts.js" type="module"></script>
+    <script src="./assets/js/addItem.js"> </script>
 </body>
 
 </html>
