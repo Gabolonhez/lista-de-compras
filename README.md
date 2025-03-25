@@ -8,7 +8,7 @@ A lista de compras é um projeto que foi desenvolvido durante um curso.
 ## 🎯 Funcionalidades
 
 - [x] Permite incluir, editar e excluir um item a ser comprado. <br>
-- [x] Permite selecionar e mover um item para a aba de comprados
+- [x] Permite selecionar e mover um item para a aba de comprados, editar e excluir.
 
 ## 💻 Tecnologias 
 - `HTML`
