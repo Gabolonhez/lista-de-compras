@@ -5,8 +5,8 @@
 }
 
 :root {
-    --cor-primaria: #F55B64;
-    --cor-secundaria: #C2373F;
+    --cor-primaria: #17073d;
+    --cor-secundaria: #20090b;
     --neutro: #F9F9F9;
     --preto: #131730;
     --fonte-titulo: "Krona One", sans-serif;
@@ -153,5 +153,8 @@ ul {
 }
 
 .container-lista {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     width: 100%;
 }
