@@ -1,6 +1,5 @@
 # Lista de compras
-
-![image](https://github.com/user-attachments/assets/f1700ca8-cf4f-44f6-8667-410650dd9660)
+![image](https://github.com/user-attachments/assets/5cea4e96-229a-4ae6-b9d0-d1c8b1c8ee4d)
 
 ## 📑 Descrição
 
