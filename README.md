@@ -3,7 +3,7 @@
 
 ## 📑 Descrição
 
-A lista de compras é um projeto que foi desenvolvido durante um curso.
+A lista de compras é um projeto que foi desenvolvido durante um curso pela DIO.
 
 ## 🎯 Funcionalidades
 
